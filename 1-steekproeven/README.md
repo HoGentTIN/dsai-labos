@@ -22,3 +22,15 @@
     - alle observaties voor de sport "Netball"
     - enkel de variabele "wt" van de observaties voor "Netball"
     - welke sporten worden beoefend door atleten met een BMI hoger dan 26? Geef ook een lijst met de unieke waarden en een frequentietabel van hoe vaak elke sport voorkomt.
+
+## Labo 2 - Android Persistence
+
+1. Maak een nieuw Jupyter Notebook bestand aan voor dit labo, kopieer de imports en laad de dataset `data/android_persistence.csv`. Zie de [beschrijving](../data/android_persistence_cpu.md) voor meer info over de inhoud. Let op! dit bestand is niet als een normaal CSV-bestand opgeslagen.
+2. Ga op verkenning in de dataset:
+    - Hoeveel variabelen en observaties zitten er in de dataset?
+    - Wat is het meetniveau van elke variabele?
+    - Markeer de kwalitatieve variabelen als 'category'
+    - Geef een overzicht van de datatypes in de dataset
+3. Vraag een beschrijving op van elke variabele.
+4. Welke unieke waarden vind je voor de variabelen `PersistenceType` en `DataSize`? Hoe vaak komt elke waarde voor?
+5. In deze dataset is het vooral interessant om te weten hoe vaak elke unieke combinatie van `PersistenceType` en `DataSize` voorkomt. Zoek uit hoe je aan de hand van de Pandas-functie `crosstab()` een kruistabel kan opstellen voor deze variabelen.
