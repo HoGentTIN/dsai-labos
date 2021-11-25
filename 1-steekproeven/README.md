@@ -1,6 +1,6 @@
-# Labo's hoofdstuk 1: Basisbegrippen, steekproefonderzoek
+# Labo's module 1: Basisbegrippen, steekproefonderzoek
 
-## Labo 1 - Australian Athletes (ais)
+## Labo 1.1 - Australian Athletes (ais)
 
 1. Maak een Jupyter Notebook-bestand `labo-1-01.ipynb` aan in deze directory.
 2. Zorg dat de eerste cel een Markdown cel wordt, en geef het een titel (bv. `# Labo 1.1`).
@@ -23,7 +23,7 @@
     - enkel de variabele "wt" van de observaties voor "Netball"
     - welke sporten worden beoefend door atleten met een BMI hoger dan 26? Geef ook een lijst met de unieke waarden en een frequentietabel van hoe vaak elke sport voorkomt.
 
-## Labo 2 - Android Persistence
+## Labo 1.2 - Android Persistence
 
 1. Maak een nieuw Jupyter Notebook bestand aan voor dit labo, kopieer de imports en laad de dataset `data/android_persistence.csv`. Zie de [beschrijving](../data/android_persistence_cpu.md) voor meer info over de inhoud. Let op! dit bestand is niet als een normaal CSV-bestand opgeslagen.
 2. Ga op verkenning in de dataset:
