@@ -5,3 +5,13 @@ In deze repository vind je de labo-opgaven voor de cursus Data Science & AI. Bed
 De repository is opgedeeld volgens de verschillende modules in de cursus. In elke directory vind je een README.md met de opgaven. De directory `data/` bevat alle datasets die je nodig hebt (en die je niet moet downloaden van het Internet).
 
 Maak waar nodig een Jupyter Notebook-bestand aan om je oplossing in uit te werken.
+
+## Referenties
+
+In de labo-opgaven wordt hier en daar verwezen naar bronnen. Je vindt hier een referentielijst:
+
+Akin, Ö. (2016) *Performantie van persistentiemogelijkheden in Android.* Bachelorproef. Hogeschol Gent. 
+
+Ryan, et al. (1998) The effect of in-store music on consumer choice of wine. In: *Proceedings of the Nutrition Society.* **57**(4), p. 169a.
+
+Vanhaelewyn, B. & De Marez, L. (2016) *Digimeter 2016.* Onderzoeksrapport. Imec. Opgehaald 2017-05-03 van <http://www.imec.be/digimeter>
