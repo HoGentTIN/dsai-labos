@@ -12,7 +12,7 @@
     - Hoeveel kolommen van elk type zijn er?
     - Wat is het meetniveau (nominaal, ordinaal, interval, ratio) van elke variabele?
 6. De kolom "id" is eigenlijk geen variabele, maar een index. Markeer deze als dusdanig.
-7. De variabelen die nu als "object" beschouwd worden, zijn kwalitatieve variabelen. Wijzig het type van elk van deze variabelen in "category". Controleer of de omzetting gelukt is door opnieuw info over de types op te vragen.
+7. De variabelen die nu als "object" beschouwd worden, zijn kwalitatieve variabelen. Wijzig het type van elk van deze variabelen in "category". Bij ordinale variabelen definieer je ook een type en leg je de volgorde vast. Controleer of de omzetting gelukt is door opnieuw info over de types op te vragen.
 8. Geef een beschrijving van de kolommen ferr, bmi, sex en sport en de unieke waarden in elk. Herken je de kenmerken van kwalitatieve en kwantitatieve variabelen in het resultaat?
 9. Selecteer volgende elementen uit de dataset:
     - de tweede rij (id = 2)
@@ -29,8 +29,8 @@
 2. Ga op verkenning in de dataset:
     - Hoeveel variabelen en observaties zitten er in de dataset?
     - Wat is het meetniveau van elke variabele?
-    - Markeer de kwalitatieve variabelen als 'category'
+    - Zorg voor de omzetting van kwalitatieve variabelen in het juiste type (en specifieer de volgorde van ordinale variabelen).
     - Geef een overzicht van de datatypes in de dataset
 3. Vraag een beschrijving op van elke variabele.
 4. Welke unieke waarden vind je voor de variabelen `PersistenceType` en `DataSize`? Hoe vaak komt elke waarde voor?
-5. In deze dataset is het vooral interessant om te weten hoe vaak elke unieke combinatie van `PersistenceType` en `DataSize` voorkomt. Zoek uit hoe je aan de hand van de Pandas-functie `crosstab()` een kruistabel kan opstellen voor deze variabelen.
+5. In deze dataset is het vooral interessant om te weten hoe vaak elke unieke combinatie van `PersistenceType` en `DataSize` voorkomt. Zoek uit hoe je aan de hand van de Pandas-functie `crosstab()` een zgn. kruistabel kan opstellen voor deze variabelen. Dit concept komt trouwens nog terug in module 4 (onderzoeken van het verband tussen 2 kwalitatieve variabelen).
