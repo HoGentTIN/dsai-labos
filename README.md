@@ -10,7 +10,9 @@ Maak waar nodig een Jupyter Notebook-bestand aan om je oplossing in uit te werke
 
 In de labo-opgaven wordt hier en daar verwezen naar bronnen. Je vindt hier een referentielijst:
 
-Akin, Ö. (2016) *Performantie van persistentiemogelijkheden in Android.* Bachelorproef. Hogeschol Gent. 
+Akin, Ö. (2016) *Performantie van persistentiemogelijkheden in Android.* Bachelorproef. Hogeschol Gent.
+
+Cochran, W.G. (1954). Some Methods for Strengthening the Common χ² Tests. *Biometrics*, 10(4), 417-451.
 
 Ryan, et al. (1998) The effect of in-store music on consumer choice of wine. In: *Proceedings of the Nutrition Society.* **57**(4), p. 169a.
 
